@@ -10,13 +10,13 @@ Install Node.js [here](https://nodejs.org/en/download/) and download the latest 
 
 Next JS is laready part of the directory
 
-install necessary node modules for Tailwind CSS:
+install necessary node modules for Tailwind CSS in the project directory:
 ```bash
 npm install -D tailwindcss@latest postcss@latest autoprefixer@latest
 ```
 
 ## Usage
-In the proeject directory, run the development server:
+In the project directory, run the development server:
 ```bash
 npm run dev
 ```
