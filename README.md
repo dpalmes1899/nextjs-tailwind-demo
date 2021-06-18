@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) and [tailwindcss@latest postcss@latest autoprefixer@latest](https://tailwindcss.com/docs/guides/nextjs).
+This is a [Next.js](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) and [`tailwindcss@latest postcss@latest autoprefixer@latest`](https://tailwindcss.com/docs/guides/nextjs).
 
 
 ## Installation
