@@ -6,7 +6,7 @@ It is required to have an IDE, Visual Studio Code is highly recommended.
 
 It is also a need to install Git, in order use the Git repository.
 
-Install Node.js here and download the latest version of node and install it on your machine.
+Install Node.js [here](https://nodejs.org/en/download/) and download the latest version of node and install it on your machine.
 
 Next JS is laready part of the directory
 
